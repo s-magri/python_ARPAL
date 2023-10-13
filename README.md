@@ -59,6 +59,15 @@ Martina Raffellini - martina.raffellini@arpal.liguria.it
 Luca Miscioscia - lumis98@gmail.com
 Federico Cassola - federico.cassola@arpal.liguria.it
 
+<<<<<<< HEAD
 Marco Tizzi - marco.tizzi@arpal.liguria.it
 
 Stefania Magri - stefania.magri@edu.unige.it
+=======
+
+
+
+
+
+Stefania Magrì - stefania.magri@arpal.liguria.it
+>>>>>>> 81c65ed10720a1018d5530538998fe98ec12e91b
