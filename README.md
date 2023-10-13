@@ -60,4 +60,4 @@ Martina Raffellini - martina.raffellini@arpal.liguria.it
 
 
 
-Stefania Magrì - stefania.magri@arpal.liguria.it   NON FUNZIONA
+Stefania Magrì - stefania.magri@arpal.liguria.it
