@@ -50,18 +50,10 @@ Venerdì 27 ottobre 2023 | 09:00-13:00
 Participants:
 
 Andrea Lira Loarca - andrea.lira.loarca@unige.it
-<<<<<<< HEAD
-
-
-
-
-
-
-Stefania Magrì - stefania.magri@arpal.liguria.it
-=======
 
 
 
 Martina Raffellini - martina.raffellini@arpal.liguria.it
 
->>>>>>> d1857fc30565b0ba1c1fbe5857e85bad9da71ee5
+
+Stefania Magrì - stefania.magri@arpal.liguria.it
