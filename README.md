@@ -61,4 +61,4 @@ Federico Cassola - federico.cassola@arpal.liguria.it
 
 Marco Tizzi - marco.tizzi@arpal.liguria.it
 
-
+Stefania Magri - stefania.magri@edu.unige.it
